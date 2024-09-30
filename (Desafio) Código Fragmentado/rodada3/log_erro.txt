@@ -1,0 +1,6 @@
+Erro: Tentativa de login falhou | Data e Hora: Sat Sep 28 17:22:35 2024
+Erro: Tentativa de login falhou | Data e Hora: Sat Sep 28 18:36:28 2024
+Erro: Tentativa de login falhou | Data e Hora: Sat Sep 28 18:38:48 2024
+Erro: Tentativa de login falhou | Data e Hora: Sat Sep 28 18:40:28 2024
+Erro: Tentativa de login falhou | Data e Hora: Sat Sep 28 18:41:28 2024
+Erro: Tentativa de login falhou | Data e Hora: Sat Sep 28 18:42:08 2024

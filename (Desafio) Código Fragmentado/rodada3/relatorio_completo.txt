@@ -1,0 +1,7 @@
+Relatório Completo dos Alunos
+
+1,Carlos,Masculino,15/09/2023
+5,Pedro,Masculino,19/09/2023
+7,Alex,Outro,21/09/2023
+9,Ricardo,Masculino,23/09/2023
+1,Natan,Masculino,28/09/2024

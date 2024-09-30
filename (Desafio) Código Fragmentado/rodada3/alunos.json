@@ -1,0 +1,7 @@
+[
+  { "id": 1, "nome": "Carlos", "genero":"Masculino", "dataCadastro":"15/09/2023" },
+  { "id": 5, "nome": "Pedro", "genero":"Masculino", "dataCadastro":"19/09/2023" },
+  { "id": 7, "nome": "Alex", "genero":"Masculino", "dataCadastro":"21/09/2023" },
+  { "id": 9, "nome": "Ricardo", "genero":"Masculino", "dataCadastro":"23/09/2023" },
+  { "id": 1, "nome": "Natan", "genero":"Masculino", "dataCadastro":"28/09/2024" }
+]

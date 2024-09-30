@@ -1,0 +1,9 @@
+Operação: Adição | Nome: Natan | Data e Hora: Sat Sep 28 18:52:49 2024
+Operação: Listagem de alunos | Nome: N/A | Data e Hora: Sat Sep 28 18:52:55 2024
+Operação: Exclusão | Nome: Carlos | Data e Hora: Sat Sep 28 18:53:58 2024
+Operação: Listagem de alunos | Nome: N/A | Data e Hora: Sat Sep 28 18:54:02 2024
+Operação: Atualização | Nome: Carlos | Data e Hora: Sat Sep 28 18:54:27 2024
+Operação: Atualização | Nome: João | Data e Hora: Sat Sep 28 18:54:27 2024
+Operação: Listagem de alunos | Nome: N/A | Data e Hora: Sat Sep 28 18:54:32 2024
+Operação: Exclusão por gênero | Nome: Feminino | Data e Hora: Sat Sep 28 18:54:56 2024
+Operação: Listagem de alunos | Nome: N/A | Data e Hora: Sat Sep 28 18:55:00 2024

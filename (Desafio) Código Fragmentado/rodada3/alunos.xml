@@ -1,0 +1,32 @@
+<alunos>
+  <aluno>
+    <id>1</id>
+    <nome>Carlos</nome>
+    <genero>Masculino</genero>
+    <dataCadastro>15/09/2023</dataCadastro>
+  </aluno>
+  <aluno>
+    <id>5</id>
+    <nome>Pedro</nome>
+    <genero>Masculino</genero>
+    <dataCadastro>19/09/2023</dataCadastro>
+  </aluno>
+  <aluno>
+    <id>7</id>
+    <nome>Alex</nome>
+    <genero>Masculino</genero>
+    <dataCadastro>21/09/2023</dataCadastro>
+  </aluno>
+  <aluno>
+    <id>9</id>
+    <nome>Ricardo</nome>
+    <genero>Masculino</genero>
+    <dataCadastro>23/09/2023</dataCadastro>
+  </aluno>
+  <aluno>
+    <id>1</id>
+    <nome>Natan</nome>
+    <genero>Masculino</genero>
+    <dataCadastro>28/09/2024</dataCadastro>
+  </aluno>
+</alunos>
